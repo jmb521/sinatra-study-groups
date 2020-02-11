@@ -6,7 +6,7 @@
 1. Sinatra RESTful Routes
 2. ActiveRecord in Sinatra
 3. Securing Passwords
-4. User Authentication and Sessions
+<!-- 4. User Authentication and Sessions -->
 5. Helper methods (optional)
 
 ## ActiveRecord in Sinatra

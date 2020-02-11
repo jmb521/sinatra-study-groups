@@ -29,7 +29,7 @@
 - 	How to use:
 	- `pry` in Gemfile, `bundle install`, add `require ‘pry'` to application controller
 	- In controller: `binding.pry` 
-	- In view: `<%= binding.pry %>`
+	
 
 ### Read error messages and understand what they mean
 

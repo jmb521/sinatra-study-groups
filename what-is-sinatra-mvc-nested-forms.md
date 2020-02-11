@@ -42,7 +42,7 @@ Game ratings
 
 ## (Nested) Forms
 - Forms That Create Multiple Objects
-- Thankfully, ERB provides a similar syntax. It handles that first level of nesting, so instead of having to domy_hash[“student”]={}we can just go straight into thestudenthash. ERB assumes that the name of your top-level hash is the first key, so the code to call the value associated with the nested”name”key would bestudent[“name”].
+- Thankfully, ERB provides a similar syntax. It handles that first level of nesting, so instead of having to domy_hash[“student”]={}we can just go straight into thestudenthash. ERB assumes that the name of your top-level hash is the first key, so the code to call the value associated with the nested”name”key would be student[“name”].
 *  `Student Name: <input type=“text” name=“student[name]”>`
 ```ruby
 params = {

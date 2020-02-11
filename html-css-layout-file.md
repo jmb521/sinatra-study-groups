@@ -3,7 +3,7 @@
 **Description**: Come and learn how to use the layout file in Sinatra, we go over HTML and CSS concepts along the way.
 
 ## Table of Contents
-1. Layout File & era
+1. Layout File & erb
 2. HTML
 3. CSS
 
